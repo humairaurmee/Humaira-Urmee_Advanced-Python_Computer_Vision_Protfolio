@@ -1,3 +1,5 @@
+# Aspect Detection
+## Edge Detection
 ```python
 import cv2
 import numpy as np
